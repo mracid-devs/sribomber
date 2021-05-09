@@ -7,7 +7,7 @@ apt update && apt upgrade -y
 
 apt install git python -y
 
-https://github.com/mracid-devs/sribomber.git
+git clone https://github.com/mracid-devs/sribomber.git
 
 cd sribomb
 
