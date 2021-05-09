@@ -1,6 +1,6 @@
 import urllib
 import time,os
-print(   "\033[1;33mPrivate Messaging!! \n Message Anyone without showing your number as a service massage!! \n   ->[Dasun]<-   ")
+print(   "\033[1;33mPrivate Messaging!! \n Message Anyone without showing your number as a service massage!!")
 print("\033[1;31m<<<_____________________________>>>\n")
 while True:
     num=int(input("\033[1;36mNumber:"))
